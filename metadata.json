@@ -1,0 +1,7 @@
+{
+  "name": "DocuMind",
+  "description": "An advanced PDF analysis tool that transforms long, complex documents into concise insights using Gemini NLP.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
